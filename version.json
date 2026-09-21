@@ -1,5 +1,5 @@
 {
   "version": "V2.0",
   "url": "https://github.com/Cuntrin28/LMS/releases/download/v2.0/LMS.exe",
-  "changelog": "- Nâng cấp phiên bản V2.0 chính thức\n- Tích hợp Bot Discord quản lý bản quyền & lệnh khóa từ xa\n- Tối ưu hóa hiệu năng và kết nối tự động cập nhật"
+  "changelog": "- Cập nhật phiên bản V2.0\n- Quản lý bản quyền & khóa máy từ xa qua Discord Bot\n- Tự động cập nhật qua GitHub Releases"
 }
