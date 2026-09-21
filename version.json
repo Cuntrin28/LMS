@@ -1,5 +1,6 @@
 {
-  "version": "V2.5",
-  "url": "https://github.com/Cuntrin28/LMS/releases/download/v2.5/LMS.exe",
-  "changelog": "Khoa la vang ngay lap tuc 1 giay"
+  "version": "V2.6",
+  "min_supported_version": "V2.6",
+  "url": "https://github.com/Cuntrin28/LMS/releases/download/v2.6/LMS.exe",
+  "changelog": "Giao dien Google Gemini moi & Vo hieu hoa toan bo ban cu"
 }
