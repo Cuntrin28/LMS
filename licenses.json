@@ -1,4 +1,10 @@
 {
-  "USED_KEYS": {},
+  "USED_KEYS": {
+    "D6FF-CFB6-1384": {
+      "machine_code": "179C-C48F",
+      "hardware_id": "E39B14D6-736D-3A46-8412-2C09395849AE",
+      "activated_at": "2026-09-22 13:02:30"
+    }
+  },
   "AVAILABLE_KEYS": []
 }
