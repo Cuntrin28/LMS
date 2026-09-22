@@ -24,6 +24,306 @@
       "duration_days": 30,
       "created_at": "2026-09-23 01:34:02",
       "note": "Key 30 ngày cấp riêng cho máy 68AC-2264"
+    },
+    "K1D-8X16-67QD-649E": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-1P7R-6AOG-141A": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-ZXNJ-754T-787B": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-Z8T2-Z4HT-75BF": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-FHS3-1O6X-43B0": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-P2OL-NR8J-B826": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-QA9D-W7LN-4811": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-6784-UDNZ-0B51": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-SVNH-8QMW-803B": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-UR61-ZXUD-8C3C": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-HPAE-JORQ-4FC9": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-TVWM-S5XZ-77AB": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-QS41-HQSV-7358": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-7D8S-K9JP-543A": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-YIA6-EDW1-1262": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-ST3H-UBUR-D7FC": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-DC26-NR17-BCB0": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-TUN0-NO8M-5FC9": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-EW82-3PRX-785E": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-7ED6-J3ON-E8A9": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-GP2O-BX0F-F2D5": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-2SNZ-YUKL-890D": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-O037-PJ7O-2141": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-AA8O-UDPB-E3E4": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-L443-ZKZ4-14D7": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-M2DQ-LP80-0C9B": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-OVYM-7BYW-0D4C": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-QUY0-N3WB-D8B8": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-Y0XM-U7AL-6C7F": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-JZ89-TPBQ-4112": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-RS0P-ZDHV-260C": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-SP8D-G869-E93A": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-7DU0-1V7O-805F": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-DMJU-U5E8-8423": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-JMSC-PS32-8718": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-6VI2-ZEV1-634C": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-IC2V-MVAT-B51C": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-XMEW-2E8L-4629": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-P6JG-32RX-59CB": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-L3BA-0WFT-F332": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-0LVR-KKCT-24C7": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-4RH8-YPH7-8E3F": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-ARM1-M57W-6EC3": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-F2TX-JO80-F448": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-2OCQ-ZMHT-4BBC": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-QRG7-BF9T-D89C": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-IT0L-AVQ6-D8F0": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-JXHY-2NQB-CBF2": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-OJN3-YBDC-35F2": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
+    },
+    "K1D-Y3BD-98G9-8944": {
+      "target_machine": "*",
+      "duration_days": 1,
+      "created_at": "2026-09-23 01:34:26",
+      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
     }
   },
   "BLOCKED_KEYS": {}
