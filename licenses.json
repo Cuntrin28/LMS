@@ -18,6 +18,13 @@
       "expires_at": "2026-09-24 01:31:18"
     }
   },
-  "AVAILABLE_KEYS": {},
+  "AVAILABLE_KEYS": {
+    "K30D-HSC8-P89D-186C": {
+      "target_machine": "68AC-2264",
+      "duration_days": 30,
+      "created_at": "2026-09-23 01:34:02",
+      "note": "Key 30 ngày cấp riêng cho máy 68AC-2264"
+    }
+  },
   "BLOCKED_KEYS": {}
 }
