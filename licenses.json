@@ -358,6 +358,12 @@
       "duration_days": 1,
       "created_at": "2026-09-25 23:49:15",
       "note": "Key 1 ngày cấp riêng cho máy UNLOCK-E0D1-7BCC"
+    },
+    "KVV-8LIN-R1SK-C43A": {
+      "target_machine": "*",
+      "duration_days": 0,
+      "created_at": "2026-09-26 00:22:04",
+      "note": "Voucher Vĩnh viễn dùng 1 lần cho máy bất kỳ"
     }
   },
   "BLOCKED_KEYS": {}
