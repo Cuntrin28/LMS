@@ -51,6 +51,13 @@
       "duration_days": 0,
       "activated_at": "2026-09-26 00:22:14",
       "expires_at": "PERMANENT"
+    },
+    "K30D-OSSX-C5S8-E48D": {
+      "machine_code": "179C-C48F",
+      "hardware_id": "E39B14D6-736D-3A46-8412-2C09395849AE",
+      "duration_days": 30,
+      "activated_at": "2026-09-26 09:00:55",
+      "expires_at": "2026-10-26 09:00:55"
     }
   },
   "AVAILABLE_KEYS": {
@@ -365,12 +372,6 @@
       "duration_days": 1,
       "created_at": "2026-09-25 23:49:15",
       "note": "Key 1 ngày cấp riêng cho máy UNLOCK-E0D1-7BCC"
-    },
-    "K30D-OSSX-C5S8-E48D": {
-      "target_machine": "*",
-      "duration_days": 30,
-      "created_at": "2026-09-26 01:54:54",
-      "note": "Voucher 30 ngày dùng 1 lần cho máy bất kỳ"
     },
     "K30D-1JT4-G3YU-2C2B": {
       "target_machine": "*",
