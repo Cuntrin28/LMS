@@ -72,6 +72,13 @@
       "duration_days": 1,
       "activated_at": "2026-09-28 23:30:19",
       "expires_at": "2026-09-29 23:30:19"
+    },
+    "K1D-S7L0-DMM4-A24C": {
+      "machine_code": "2998-37C6",
+      "hardware_id": "06DFA05A-33CF-F140-9C55-A97C5A517DD1",
+      "duration_days": 1,
+      "activated_at": "2026-09-28 23:35:52",
+      "expires_at": "2026-09-29 23:35:52"
     }
   },
   "AVAILABLE_KEYS": {
@@ -398,12 +405,6 @@
       "duration_days": 7,
       "created_at": "2026-09-26 09:01:17",
       "note": "Voucher 7 ngày dùng 1 lần cho máy bất kỳ"
-    },
-    "K1D-S7L0-DMM4-A24C": {
-      "target_machine": "*",
-      "duration_days": 1,
-      "created_at": "2026-09-28 23:32:08",
-      "note": "Voucher 1 ngày dùng 1 lần cho máy bất kỳ"
     }
   },
   "BLOCKED_KEYS": {}
